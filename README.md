@@ -41,6 +41,8 @@ A more detailed Bill of Materials with links to purchase components can be found
 
 Assembly of this PCB requires micro-soldering experience; you will be required to solder QFN chips as well as SMD components.
 
+I am not responsible for any damage to your Game Boy Pocket.  I am not an electrical engineer so please use this regulator at your own risk.
+
 If you have suggestions to improve or identify issues with the PCB design, please contact me on discord: *skimzor#5078*.
 
 # License
