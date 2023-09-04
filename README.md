@@ -1,6 +1,6 @@
 # SZ-MGB-REG
 
-This power regulator takes the SZ-REG and adds a -18V rail to power an OEM Game Boy Pocket screen.  This regulator mimics the OEM Game Boy Pocket regulator; therefore, it can control brightness on the FunnyPlaying GBP IPS LCD kits.
+This power regulator takes the SZ-REG and adds a -18V rail to power an OEM Game Boy Pocket screen.  This regulator mimics the OEM Game Boy Pocket regulator; therefore, it can also control brightness on the FunnyPlaying GBP IPS LCD kits.
 
 ![](images/sz-mgb.jpg)
 
