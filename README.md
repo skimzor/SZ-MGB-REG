@@ -10,8 +10,7 @@ This power regulator takes the SZ-REG and adds a -18V rail to power an OEM Game 
 
 A version of this regulator without any silkscreen/image is available in this github as a gerber. Upload the gerber to a PCB fab (JLCPCB, PCBWay, OSHPark) with a board thickness of at least 1.6mm, HASL, and in your favorite color. 
 
-![](images/pcb_blank.png)
-
+![](images/sz-reg-oem_back.png)
 
 # Bill of Materials
 
