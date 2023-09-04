@@ -27,6 +27,10 @@ A version of this regulator without any silkscreen/image is available in this gi
 | C8 | 2.2uF | 0603 |
 | C9 | 0.01uF | 0603 |
 | C10 | 10uF | 0805 |
+| R1 | 3.32M | 0603 |
+| R2 | 1.33M | 0603 |
+| R3 | 422K | 0603 |
+| R4 | 22K | 0603 |
 | L1 | 2.2uH | NR3015T2R2M |
 | L2 | 75uH | ASPI-4020S-750M-T |
 | U1 | 5V REG | TPS61202DSCR |
@@ -36,7 +40,7 @@ A more detailed Bill of Materials with links to purchase components can be found
 
 # Disclaimer
 
-Assembly of this PCB requires micro-soldering experience; you will be required to solder a QFN chip as well as SMD components.
+Assembly of this PCB requires micro-soldering experience; you will be required to solder QFN chips as well as SMD components.
 
 If you have suggestions to improve or identify issues with the PCB design, please contact me on discord: *skimzor#5078*.
 
